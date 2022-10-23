@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="hint_name">Please enter your name</string>
+    <string name="hint_cell">Please enter cell nr</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_show_data">Show Data</string>
+    <string name="btn_edit_data">Edit Data</string>
+    <string name="btn_delete_data">Delete Data</string>
+    <string name="data">Data from the database will be displayed here.</string>
+</resources>
